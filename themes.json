@@ -5,7 +5,10 @@
       "id": "emerald",
       "title": "Emerald",
       "cover": "https://raw.githubusercontent.com/Tokinx/cf-server-monitor-theme-emerald/main/docs/preview.png",
-      "tags": ["Emerald","Earth"],
+      "tags": [
+        "Emerald",
+        "Earth"
+      ],
       "description": {
         "zh-CN": "翡翠配色的 CF Server Monitor 主题。",
         "en": "An emerald theme for CF Server Monitor."
@@ -18,7 +21,11 @@
       "id": "pulse",
       "title": "Pulse",
       "cover": "https://raw.githubusercontent.com/loongkong/cf-server-monitor-theme-pulse/main/docs/preview.svg",
-      "tags": ["Pulse", "Minimal", "Mono"],
+      "tags": [
+        "Pulse",
+        "Minimal",
+        "Mono"
+      ],
       "description": {
         "zh-CN": "极简风格的 CF Server Monitor 主题。秒级全局节拍驱动实时数据，卡片/圆环/表格三种模式，支持价格、到期、流量包与剩余价值展示。",
         "en": "A minimal CF Server Monitor theme. Realtime data on a unified 1s tick, bar/ring/table card modes, with price, expiry, traffic quota and remaining-value display."
@@ -31,7 +38,11 @@
       "id": "luminaplus",
       "title": "LuminaPlus",
       "cover": "https://raw.githubusercontent.com/volcano-1025/CFSM-Theme-LuminaPlus/main/docs/preview.png",
-      "tags": ["LuminaPlus", "Cards", "Realtime"],
+      "tags": [
+        "LuminaPlus",
+        "Cards",
+        "Realtime"
+      ],
       "description": {
         "zh-CN": "清爽的卡片式主题。大 / 小 / 迷你 / 列表四种视图，实时更新，含三网延迟丢包、价格到期与流量统计。",
         "en": "A clean card-based theme. Four layouts (large / compact / mini / list), realtime updates, per-carrier latency and loss bars, plus price, expiry and traffic stats."
@@ -44,7 +55,11 @@
       "id": "horizon",
       "title": "Horizon",
       "cover": "https://raw.githubusercontent.com/akasls/Horizon-CF-Server-Monitor/main/docs/preview.png",
-      "tags": ["Horizon", "Flat", "Clean"],
+      "tags": [
+        "Horizon",
+        "Flat",
+        "Clean"
+      ],
       "description": {
         "zh-CN": "为 CF-Server-Monitor 设计的扁平、简洁、现代且精确的仪表盘主题。",
         "en": "A flat, clean, modern, and precision dashboard theme for CF-Server-Monitor"
@@ -57,7 +72,11 @@
       "id": "junimo",
       "title": "Junimo",
       "cover": "https://raw.githubusercontent.com/huilang-me/cfsm-junimo/main/preview.png",
-      "tags": ["Junimo", "Game", "Stardew Valley"],
+      "tags": [
+        "Junimo",
+        "Game",
+        "Stardew Valley"
+      ],
       "description": {
         "zh-CN": "一款灵感来源于游戏《星露谷物语》的主题。",
         "en": "A theme inspired by the game Stardew Valley."
@@ -70,7 +89,12 @@
       "id": "shadcn",
       "title": "Shadcn",
       "cover": "https://raw.githubusercontent.com/LanHuangJG/cf-server-monitor-theme-shadcn/master/docs/preview.png",
-      "tags": ["shadcn", "React", "Cards", "Realtime"],
+      "tags": [
+        "shadcn",
+        "React",
+        "Cards",
+        "Realtime"
+      ],
       "description": {
         "zh-CN": "React 19 + shadcn/ui 主题。卡片/表格/环形三视图，实时 WebSocket，三网延迟与丢包、历史曲线、计费与剩余价值（人民币折算），响应式骨架屏与明暗切换。",
         "en": "A React 19 + shadcn/ui theme with card/table/ring views, realtime WebSocket, per-carrier latency & loss, history charts, billing and remaining value (CNY), responsive skeletons and dark mode."
@@ -83,7 +107,12 @@
       "id": "glassmorphism",
       "title": "Glassmorphism",
       "cover": "https://raw.githubusercontent.com/allury/CFSM-Glassmorphism/main/docs/preview.webp",
-      "tags": ["Glassmorphism", "Earth", "Charts", "Realtime"],
+      "tags": [
+        "Glassmorphism",
+        "Earth",
+        "Charts",
+        "Realtime"
+      ],
       "description": {
         "zh-CN": "毛玻璃风格主题。三种地球 / 地图渲染可选可关，卡片与列表两种视图、四档卡片密度，节点详情含信息卡与历史图表，并内置 48 项主题设置页。",
         "en": "A glassmorphism theme with three optional globe/map renderers, card and list views in four densities, per-node detail with info cards and history charts, and a built-in settings page of 48 options."
@@ -96,7 +125,11 @@
       "id": "win2000",
       "title": "Win2000",
       "cover": "https://raw.githubusercontent.com/finch-xu/CF-Server-Monitor-theme-win2000/main/docs/preview.png",
-      "tags": ["Win2000", "Retro", "Classic"],
+      "tags": [
+        "Win2000",
+        "Retro",
+        "Classic"
+      ],
       "description": {
         "zh-CN": "Windows 2000 经典风格主题。整个页面是一个灰色立体窗口，卡片 / 圆环 / 表格 / 地图四种视图，任务管理器风格图表，支持深浅配色、三网延迟、价格与剩余价值。",
         "en": "A Windows 2000 classic style theme. The whole page is one beveled gray window with card, ring, table and map views, Task Manager style charts, light and dark palettes, per-carrier latency, price and remaining value."
@@ -109,7 +142,12 @@
       "id": "sao",
       "title": "SAO",
       "cover": "https://raw.githubusercontent.com/WAOR/CFSM-SAO/main/preview.png",
-      "tags": ["SAO", "Minimal", "Modern", "Realtime"],
+      "tags": [
+        "SAO",
+        "Minimal",
+        "Modern",
+        "Realtime"
+      ],
       "description": {
         "zh-CN": "SAO 系列探针主题的 CFSM 版本。提供丰富指标信息卡片、支持吞吐波形图、节点标签自定义着色、带宽实时评级徽章、优化加载速度和移动端界面。",
         "en": "CFSM version of the SAO series probe theme. It provides rich metric information cards, supports throughput waveform charts, custom coloring for node labels, real-time bandwidth rating badges, optimized loading speed, and a mobile interface."
@@ -122,7 +160,12 @@
       "id": "anotherluminaplus",
       "title": "AnotherLuminaPlus",
       "cover": "https://raw.githubusercontent.com/Vegas7/CFSM-Theme-AnotherLuminaPlus/main/docs/preview.png",
-      "tags": ["AnotherLuminaPlus", "Cards", "Realtime", "Charts"],
+      "tags": [
+        "AnotherLuminaPlus",
+        "Cards",
+        "Realtime",
+        "Charts"
+      ],
       "description": {
         "zh-CN": "基于 LuminaPlus 二次修改的卡片式主题。四种卡片视图，流量按当前计费周期显示；详情页负载与 Ping 同页展示，仿哪吒监控样式丢包图：延迟与丢包合并在一张图里，可点选线路单独查看。",
         "en": "A card-based theme forked from LuminaPlus. Four card layouts with per-billing-cycle traffic; the detail page shows load and ping together, with a Nezha-style loss chart that combines latency and packet loss in one view and lets you focus on individual lines."
@@ -166,6 +209,34 @@
       "url": "https://github.com/huilang-me/CFSM-CRT",
       "branch": "dist",
       "author": "huilang-me"
+    },
+    {
+      "id": "ascii-pond",
+      "title": "锦鲤池塘 · Pond",
+      "cover": "https://raw.githubusercontent.com/ayingQAQ/cf-monitor-ascii-pond/v1.0.0/previews/overview-light.png",
+      "tags": [
+        "ASCII",
+        "Koi",
+        "Paper",
+        "Realtime"
+      ],
+      "description": {
+        "zh-CN": "字符锦鲤与纸面监控主题，支持游鱼背景、水庭布局、深浅配色、实时数据和合并线路延迟。",
+        "en": "An ASCII koi monitoring theme with ambient and garden layouts, light and dark appearance, realtime metrics and combined latency charts."
+      },
+      "url": "https://github.com/ayingQAQ/cf-monitor-ascii-pond",
+      "branch": "dist",
+      "author": "ayingQAQ",
+      "versions": [
+        {
+          "title": "v1.0.0",
+          "short_version": "v1.0.0",
+          "version": "v1.0.0",
+          "commitid": "7da144912efc698202b08d0ae87cb3c2fb47dce5",
+          "commitId": "8504b066f18d9a61bdbef3966d3d1dfab7121fd6",
+          "theme_url": "https://github.com/ayingQAQ/cf-monitor-ascii-pond/tree/8504b066f18d9a61bdbef3966d3d1dfab7121fd6"
+        }
+      ]
     }
   ]
 }
